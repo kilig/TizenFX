@@ -99139,7 +99139,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.System.Battery.html",
-          "hash": "zWdoVhIyYjz83EuY9zFPV7iwf8wf54llgfhLBaG2PP0="
+          "hash": "Cbp5JNHplyGVHEoXAq5ZaDCdG7LY0FXG+wdI+FE1p20="
         }
       },
       "is_incremental": false,
@@ -99192,6 +99192,19 @@
         ".html": {
           "relative_path": "API12/api/Tizen.System.BatteryPercentChangedEventArgs.html",
           "hash": "K2RHZUEZUQFWbO4cpqd6CFAlLj6+SqNrM/emmqSLgsY="
+        }
+      },
+      "is_incremental": false,
+      "version": "API12",
+      "group": "API12"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/API12/api/Tizen.System.BatteryPowerSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API12/api/Tizen.System.BatteryPowerSource.html",
+          "hash": "e6XZAJzRCZazVDCIHYvKKLo1SeMTfGgzqnVzG6iJrRI="
         }
       },
       "is_incremental": false,
@@ -100296,7 +100309,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.System.html",
-          "hash": "DvOc4bOn7Qjaz5yRc0tHX5hNuMEoibKUmQzyVzDlv2w="
+          "hash": "l/6F2nY3UkybxsSfNLWxlsI2R7eAv+85JT61voy6kRo="
         }
       },
       "is_incremental": false,
@@ -102727,7 +102740,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/toc.html",
-          "hash": "JDSeRzyGcU/blDLAhjj3nf4MrNdZxoISuON0IQc/D8g="
+          "hash": "isHoyZVV4evNRMXGERvpxAibq4bVP290GQpsnHnr+sw="
         }
       },
       "is_incremental": false,
@@ -119887,7 +119900,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.ImageView.ResourceReadyEventArgs.html",
-          "hash": "7SUaCEQDTAQryGgu5G8r7BdmdoIrl8+iaW3Hrle/7ac="
+          "hash": "eCC6FBPPOD388AvCNckgsG9r4X04XYkLJ/mNtMMLmJ8="
         }
       },
       "is_incremental": false,
@@ -120108,7 +120121,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextEditor.ScrollStateChangedEventArgs.html",
-          "hash": "jXnS9S1C/wTUnKJTwxNe+OwyGancliThrps6QYyWpN4="
+          "hash": "ni6a88yap87tfbfLTmH0o6aIEUOjSlljEIcYd6ETCTM="
         }
       },
       "is_incremental": false,
@@ -120121,7 +120134,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextEditor.TextChangedEventArgs.html",
-          "hash": "UDpGf8H7jbUSW1RNgmGohfr+2H4+nmcet0fqfCbkqYE="
+          "hash": "4rhHBSzsxTok+0zFX9VoNb4+vxtPgIZCec7vqM4Fp64="
         }
       },
       "is_incremental": false,
@@ -120147,7 +120160,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextField.MaxLengthReachedEventArgs.html",
-          "hash": "RAhS3/abQAcndtRxbHq5J6JyXB/+NsiBtBzZPTSe++8="
+          "hash": "s+zX3yFXsbvBJEqw2AyBrpefCrpGIjpF7OcW5ctDZl8="
         }
       },
       "is_incremental": false,
@@ -120160,7 +120173,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextField.TextChangedEventArgs.html",
-          "hash": "bcl6OtffUjSaXXuP3O62q1wNmWLcu5Jxvnud6NuzVfE="
+          "hash": "bM7bV3pXMupM5ICQH0Uo/5fZbkU/mKCaG+dJAb9rvps="
         }
       },
       "is_incremental": false,
@@ -120186,7 +120199,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextLabel.html",
-          "hash": "uwOGXsIYasbSHalcooL7awul4BrJo+VE1U8AXGueMr8="
+          "hash": "ManImRAPT/yhxlANzLNK/DCSihg8Y6L3cGStp466qE0="
         }
       },
       "is_incremental": false,
@@ -120446,7 +120459,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.ChildAddedEventArgs.html",
-          "hash": "27S4CWyJU75hqcZnqGeah8dgZ6/vX37Fu0F9ovLfoFs="
+          "hash": "mSoMI2nyrnefC1GCZBSOM/sVWukj73rhGe1jLqiEyKA="
         }
       },
       "is_incremental": false,
@@ -120459,7 +120472,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.ChildRemovedEventArgs.html",
-          "hash": "OkXR521Bz+OinJJjr46zKfwBFZwSLVK4Bs22n8vFcgQ="
+          "hash": "aiC9jYZDvXNGD4HtvYiCM+rcR9SKMbxk1kD1IImptBA="
         }
       },
       "is_incremental": false,
@@ -120485,7 +120498,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.HoverEventArgs.html",
-          "hash": "O0/uTCQy3onnuPxSXzpzstzwhD3GJFaAcdNGVIwZ3KE="
+          "hash": "D9vpu8o94mOEpuyfC7Zh6HPbViiulBzvzewBfI2AUk4="
         }
       },
       "is_incremental": false,
@@ -120498,7 +120511,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.KeyEventArgs.html",
-          "hash": "Pm/7BsgsUL47xj0hzJGvS+5lJLnYdMKmJWeQJrV1a9g="
+          "hash": "2oPw/wPbt2O4MGWkM1h8LITIHx5AKMpwNE+Xy63QZGQ="
         }
       },
       "is_incremental": false,
@@ -120511,7 +120524,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.LayoutDirectionChangedEventArgs.html",
-          "hash": "jiueDYJU/7wDFDg6F0+GYqm1rOVDbiBz15VzNgRFC04="
+          "hash": "i5tLK2BIQf/xyUNA7xJ3oANqfrxQgym4Zd2DmdhkoDY="
         }
       },
       "is_incremental": false,
@@ -120537,7 +120550,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.TouchEventArgs.html",
-          "hash": "GVMElA3Mo3xbMWEqB6KcCsH/oDG5COZCbkqyQ2slf30="
+          "hash": "nafJguh+WGPAeYYMtL0pGGJmkmhFHLsxg45JDZkQszM="
         }
       },
       "is_incremental": false,
@@ -120550,7 +120563,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.VisibilityChangedEventArgs.html",
-          "hash": "QBDmJ46U4wG/9r/ABADV0ECNWUQ1yhDB9DkQalAPjto="
+          "hash": "FFeAz+ffdRGpi5+hLnd9ixSfyNlOu1hqshaJcNA9wd4="
         }
       },
       "is_incremental": false,
@@ -120563,7 +120576,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.WheelEventArgs.html",
-          "hash": "DgpF+UJQEmvic2IK22M1X0DUBjKYhrRgvfGY0KyIOxg="
+          "hash": "V+4kIy55/5hsts0twyKpM+BxG1Lu4Ej4irSyURQGJog="
         }
       },
       "is_incremental": false,
@@ -123553,7 +123566,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.NUIApplication.html",
-          "hash": "0XPs+RyAXfxlXPM7I6ruSy6jDKTk4mv1c4cExzHF0gY="
+          "hash": "MsNBKI8gVqkc3RPfzrsmdAVRdxOE0jYBFZ/ZCJ09koA="
         }
       },
       "is_incremental": false,
@@ -133576,7 +133589,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.Battery.html",
-          "hash": "K6/w7haYJE0XSnfArITNvnz7Lg0YCNoBsn/e7LA5F/E="
+          "hash": "7DOLlcZXlAhRHbeIpodXnqAvJiArGajitk0QqTj4jqQ="
         }
       },
       "is_incremental": false,
@@ -133629,6 +133642,19 @@
         ".html": {
           "relative_path": "API13/api/Tizen.System.BatteryPercentChangedEventArgs.html",
           "hash": "v78z7IBUpggcdI/M7dxUIU9lL3rCnQuV8m7bVOW9+7k="
+        }
+      },
+      "is_incremental": false,
+      "version": "API13",
+      "group": "API13"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/API13/api/Tizen.System.BatteryPowerSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API13/api/Tizen.System.BatteryPowerSource.html",
+          "hash": "xrkEUSpSoi4PxeRMgk9tpLQzIrpHo7xowZywGm3z+9s="
         }
       },
       "is_incremental": false,
@@ -134733,7 +134759,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.html",
-          "hash": "S3aWUb1G7XU0S/Y5ZMLGPllQ1OiYJaLGHsEj2J7guQc="
+          "hash": "y2PqAxGCrBl2rtMmjGX2GqU7OYYrgix0gtWpDlneiCA="
         }
       },
       "is_incremental": false,
@@ -134759,7 +134785,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.CallHandle.CallDirection.html",
-          "hash": "0gXPnz9SdIwbnYh9TilYQ8ArKCQ4C5Xl63CYrVknT4Q="
+          "hash": "omG2EThvhmtTKsCLeN/AY2TQU6/PK0dM640TMvOnA5k="
         }
       },
       "is_incremental": false,
@@ -134772,7 +134798,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.CallHandle.CallStatus.html",
-          "hash": "4NlKQptKvn0mqidD6LdrQpUu6yjFoyq73XfgPbC4o98="
+          "hash": "26LtqqVlSvDBQjXoh4++vGNl9u5n9+xxe+zANA2R6NI="
         }
       },
       "is_incremental": false,
@@ -134785,7 +134811,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.CallHandle.CallType.html",
-          "hash": "ToABbXnPmWIdLW+F5VzcXV2DY4IaHV3SOUIVpW465rI="
+          "hash": "gZ1kS+SgYYqEt2nI4ZdlDnZgrnGxEBuhsrkIpyPiHts="
         }
       },
       "is_incremental": false,
@@ -134798,7 +134824,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.CallHandle.html",
-          "hash": "1P4Ej/XEwnX6hKe4229KZWk/ryNXoZVHHDwtkHney98="
+          "hash": "9wZRs4OyZGqM6gOvKW+8z9QYmZ2l6qwX4e0zoA+CwIY="
         }
       },
       "is_incremental": false,
@@ -134824,7 +134850,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.ChangeNotificationEventArgs.Notification.html",
-          "hash": "/5+PVBc8ZyyU6sr1LuqhSrFIGPkTijErj3SQ92PFnTY="
+          "hash": "uNzrzR2DJoNAA/m2tHQsC82Ww8aNR41ThxXYK3xR7Dk="
         }
       },
       "is_incremental": false,
@@ -134837,7 +134863,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.ChangeNotificationEventArgs.html",
-          "hash": "vL1exUhUhNczH429QmUxpV66YxHJAcKk//BAXrNnchE="
+          "hash": "Zh2/5b5x0GiittaQrpISNPSQGcHLV6iJ7+Qiqd3RXcs="
         }
       },
       "is_incremental": false,
@@ -134863,7 +134889,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Modem.PowerStatus.html",
-          "hash": "NAHqJv5cgqa/sH6uMeyZpweVQQci9fx2Vi8itXSw3O8="
+          "hash": "MsSLZ8vyELk7L+2IODtT22w7wpwfAeyKEtH6qOM4P2A="
         }
       },
       "is_incremental": false,
@@ -134876,7 +134902,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Modem.html",
-          "hash": "41STZBIPYLMdulYvJ4TRMTXBC9TdgSgKq96IHfMMQdk="
+          "hash": "6DNlVU4RbyE3IIbVT2U3wRY23UaPlyPj70XUtg3g7Po="
         }
       },
       "is_incremental": false,
@@ -134889,7 +134915,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.DefaultDataSubscription.html",
-          "hash": "84Q8jC9P+3RoK5y++x3YtkdVGVRjE2QCFSb0ilKXR/w="
+          "hash": "AfzwNTSTMUKjN+YsjnH7RLBIR/Vcuh3xmZrU/8TtMm8="
         }
       },
       "is_incremental": false,
@@ -134902,7 +134928,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.DefaultSubscription.html",
-          "hash": "S8+hs1roXy0VeYEMrp0l8QUl6lqLgbuYYAEkhluANjk="
+          "hash": "/F8mthVv7EiKBE4XaWUsk/OKPKi7xGaorPXHTuU5sfs="
         }
       },
       "is_incremental": false,
@@ -134915,7 +134941,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.NameOption.html",
-          "hash": "JqemW0doj1Ve3zpbk2ycH+q85wPzUhPosAju/TTYw4Q="
+          "hash": "qD6DWSkgs5amLXIc4Cqpoog9pgLgBTRpdbf58jfx9KU="
         }
       },
       "is_incremental": false,
@@ -134928,7 +134954,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.PsType.html",
-          "hash": "ow1cwAqMpM6qy8fOoYwwWHQS1ZiQrLsQFjQuJWF4EPM="
+          "hash": "YKlz7b/3QHHIVbMiDWnjlQKMJtzF2uKjFFJr9Ry+Ons="
         }
       },
       "is_incremental": false,
@@ -134941,7 +134967,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.Rssi.html",
-          "hash": "VOt4+prY/y6XliZRwLA7LcjsS79H4za7vlWxMDkNKis="
+          "hash": "AyHUEXvfTpTgdkfUQT/cQzToxy/Cj5Btlg7YobbfhuE="
         }
       },
       "is_incremental": false,
@@ -134954,7 +134980,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.SelectionMode.html",
-          "hash": "XotN0LEPCdGkcUkhUW3dfoEmR81CdmDLjGF+MOmz7CY="
+          "hash": "YjM1bCr3AIvV7OdtvrhB5aY/abtvWS3gIl4OPwF02x8="
         }
       },
       "is_incremental": false,
@@ -134967,7 +134993,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.ServiceState.html",
-          "hash": "3li7xYmULAvqFr4Sovb3Ro+EA84EN1V2yTeMLc253Ts="
+          "hash": "/705+MB2efYS6LSSNYEbJ0EJ5JFQXGwchyibP4lR7iU="
         }
       },
       "is_incremental": false,
@@ -134980,7 +135006,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.Type.html",
-          "hash": "QULFv8a7YDGR6mz/7njBAVgNeUyx07cIx2wjLFWwpHM="
+          "hash": "NK4iwZs34oX2Bf5esVuA9Y93V5lZbGR07YGImQGLiNA="
         }
       },
       "is_incremental": false,
@@ -134993,7 +135019,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Network.html",
-          "hash": "3RT+s59GBtXE5W9jmpRKZQnc08+N0AYpGmRAc7Q0Alg="
+          "hash": "3qk5MgVnyyIU7TSQKu63aVgJQxPcsMxHIiGekHIPNZM="
         }
       },
       "is_incremental": false,
@@ -135006,7 +135032,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Sim.ApplicationType.html",
-          "hash": "uhdJUdVUWrn5l2qclFPNqQE8wtES4yJ1i3fni9Y4fs0="
+          "hash": "XoltJJ4tvUtDy3ashor9InX+hOvHci47wOLvNkS+95A="
         }
       },
       "is_incremental": false,
@@ -135019,7 +135045,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Sim.LockState.html",
-          "hash": "4/tsyfJzo7wYS1vnKz/ob03lm8f/rLUYeiFH+LUFVBs="
+          "hash": "QQA5WrIFBzRA9aUi30w5OQA+3bbf+hVADpsqi8VPxXw="
         }
       },
       "is_incremental": false,
@@ -135032,7 +135058,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Sim.State.html",
-          "hash": "br2lNQ/Ex7xZ7En/aNxqPYDD3a9Hq9g73ScC83+md0U="
+          "hash": "xRs98Vvr+iVxSdA4n5/rssq1Qnoxfrg9Hzi/7kww5t0="
         }
       },
       "is_incremental": false,
@@ -135045,7 +135071,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.Sim.html",
-          "hash": "q52KubwxtXZKYXo7j2oYi3eNvJRuYclSO37RX63XAt4="
+          "hash": "nEgwHKXS8R+GAP3Fye1JxNntW0+Mwe+xMbDnT+7SaYM="
         }
       },
       "is_incremental": false,
@@ -135097,7 +135123,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Telephony.html",
-          "hash": "8GBEZNTrP+ISZu/EWWwy+VLDLcfiEOHbWb/OVgMy/Mw="
+          "hash": "IFmXA6sC3DTukiDz3ZuEi6CQMm6kvAYc2fIjx4CRtxk="
         }
       },
       "is_incremental": false,
@@ -137164,7 +137190,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/toc.html",
-          "hash": "JDSeRzyGcU/blDLAhjj3nf4MrNdZxoISuON0IQc/D8g="
+          "hash": "isHoyZVV4evNRMXGERvpxAibq4bVP290GQpsnHnr+sw="
         }
       },
       "is_incremental": false,
@@ -315675,7 +315701,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2681,
+          "total_file_count": 2682,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
@@ -315706,7 +315732,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2681,
+          "total_file_count": 2682,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -180662,6 +180662,19 @@ references:
   commentId: E:Tizen.System.Battery.PercentChanged
   fullName: Tizen.System.Battery.PercentChanged
   nameWithType: Battery.PercentChanged
+- uid: Tizen.System.Battery.PowerSource
+  name: PowerSource
+  href: API12/api/Tizen.System.Battery.html#Tizen_System_Battery_PowerSource
+  commentId: P:Tizen.System.Battery.PowerSource
+  fullName: Tizen.System.Battery.PowerSource
+  nameWithType: Battery.PowerSource
+- uid: Tizen.System.Battery.PowerSource*
+  name: PowerSource
+  href: API12/api/Tizen.System.Battery.html#Tizen_System_Battery_PowerSource_
+  commentId: Overload:Tizen.System.Battery.PowerSource
+  isSpec: "True"
+  fullName: Tizen.System.Battery.PowerSource
+  nameWithType: Battery.PowerSource
 - uid: Tizen.System.BatteryChargingStateChangedEventArgs
   name: BatteryChargingStateChangedEventArgs
   href: API12/api/Tizen.System.BatteryChargingStateChangedEventArgs.html
@@ -180755,6 +180768,36 @@ references:
   isSpec: "True"
   fullName: Tizen.System.BatteryPercentChangedEventArgs.Percent
   nameWithType: BatteryPercentChangedEventArgs.Percent
+- uid: Tizen.System.BatteryPowerSource
+  name: BatteryPowerSource
+  href: API12/api/Tizen.System.BatteryPowerSource.html
+  commentId: T:Tizen.System.BatteryPowerSource
+  fullName: Tizen.System.BatteryPowerSource
+  nameWithType: BatteryPowerSource
+- uid: Tizen.System.BatteryPowerSource.Ac
+  name: Ac
+  href: API12/api/Tizen.System.BatteryPowerSource.html#Tizen_System_BatteryPowerSource_Ac
+  commentId: F:Tizen.System.BatteryPowerSource.Ac
+  fullName: Tizen.System.BatteryPowerSource.Ac
+  nameWithType: BatteryPowerSource.Ac
+- uid: Tizen.System.BatteryPowerSource.None
+  name: None
+  href: API12/api/Tizen.System.BatteryPowerSource.html#Tizen_System_BatteryPowerSource_None
+  commentId: F:Tizen.System.BatteryPowerSource.None
+  fullName: Tizen.System.BatteryPowerSource.None
+  nameWithType: BatteryPowerSource.None
+- uid: Tizen.System.BatteryPowerSource.Usb
+  name: Usb
+  href: API12/api/Tizen.System.BatteryPowerSource.html#Tizen_System_BatteryPowerSource_Usb
+  commentId: F:Tizen.System.BatteryPowerSource.Usb
+  fullName: Tizen.System.BatteryPowerSource.Usb
+  nameWithType: BatteryPowerSource.Usb
+- uid: Tizen.System.BatteryPowerSource.Wireless
+  name: Wireless
+  href: API12/api/Tizen.System.BatteryPowerSource.html#Tizen_System_BatteryPowerSource_Wireless
+  commentId: F:Tizen.System.BatteryPowerSource.Wireless
+  fullName: Tizen.System.BatteryPowerSource.Wireless
+  nameWithType: BatteryPowerSource.Wireless
 - uid: Tizen.System.Data3GNetworkSettingChangedEventArgs
   name: Data3GNetworkSettingChangedEventArgs
   href: API12/api/Tizen.System.Data3GNetworkSettingChangedEventArgs.html
