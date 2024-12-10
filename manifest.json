@@ -16849,7 +16849,7 @@
       "output": {
         ".html": {
           "relative_path": "API10/api/Tizen.NUI.BaseComponents.LottieAnimationView.LoopingModeType.html",
-          "hash": "yvUAuWwfpATJkBACzIu7QAuDwmybbUBGmxfnroe5nY0="
+          "hash": "nTgvzUAiFBNoUy0ys/qsCNyGPPV0VTLDkBbthjaUDFk="
         }
       },
       "is_incremental": false,
@@ -16862,7 +16862,7 @@
       "output": {
         ".html": {
           "relative_path": "API10/api/Tizen.NUI.BaseComponents.LottieAnimationView.PlayStateType.html",
-          "hash": "0g+BKL1uZN1umLGRyTLGAh9ObYdystM6ndBQwBbmEu0="
+          "hash": "SZCkA78y/RG57xWy2iwMjiP8VkjzO4xd3ntCPZbKRl0="
         }
       },
       "is_incremental": false,
@@ -16875,7 +16875,7 @@
       "output": {
         ".html": {
           "relative_path": "API10/api/Tizen.NUI.BaseComponents.LottieAnimationView.StopBehaviorType.html",
-          "hash": "TRcHIjJQhN04m4uxN0GOH4/+uygpbN9nHDQ/4pMBTck="
+          "hash": "yDJmSBs0rYBUDKla8Y2uWxwIIgnLB2JifFjI8Lp46PM="
         }
       },
       "is_incremental": false,
@@ -16888,7 +16888,7 @@
       "output": {
         ".html": {
           "relative_path": "API10/api/Tizen.NUI.BaseComponents.LottieAnimationView.html",
-          "hash": "FnowNW7x0lKoWhpgZjE5LKswWUYCR8K3cv5CzJDwzvw="
+          "hash": "NyEDl6vdV7F+1ACRN9Mfp1hbP8Fbu39osmMpoWX/6wA="
         }
       },
       "is_incremental": false,
@@ -51000,7 +51000,7 @@
       "output": {
         ".html": {
           "relative_path": "API11/api/Tizen.NUI.BaseComponents.LottieAnimationView.LoopingModeType.html",
-          "hash": "HEK5kis5epIi7VuEjPpJk6wPwiVgYnfJabFPkUAiFtQ="
+          "hash": "7mErrdynWB2K6Q3y6cIR3o1QM+sZXs2NcWAc/h5sfm8="
         }
       },
       "is_incremental": false,
@@ -51013,7 +51013,7 @@
       "output": {
         ".html": {
           "relative_path": "API11/api/Tizen.NUI.BaseComponents.LottieAnimationView.PlayStateType.html",
-          "hash": "OogaLsPC4cX6qw7VBYdNb1EOwZOa4Fh+Hq8lZu8TQ8o="
+          "hash": "3RaMDJ0Fw30JHJ14lk4SPjoiIh8IiQm79GxHh/lgde8="
         }
       },
       "is_incremental": false,
@@ -51026,7 +51026,7 @@
       "output": {
         ".html": {
           "relative_path": "API11/api/Tizen.NUI.BaseComponents.LottieAnimationView.StopBehaviorType.html",
-          "hash": "GFkMAdsDhqiHLNC8DPU/09QxYgehwv94h5sIVXDCQ4A="
+          "hash": "F50BxQOo8+6EnAJdqWx4xL2OiDdjJe2W3FQySPUYvJQ="
         }
       },
       "is_incremental": false,
@@ -51039,7 +51039,7 @@
       "output": {
         ".html": {
           "relative_path": "API11/api/Tizen.NUI.BaseComponents.LottieAnimationView.html",
-          "hash": "Ef5uriMR8HeHiFQ2UrsYfa2IBcynE7qsCBWvDLMf5zw="
+          "hash": "q/SqESyChgB2VWczpHBe52glyq5HLxY1+7Jrumj/7Vo="
         }
       },
       "is_incremental": false,
@@ -85502,7 +85502,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseComponents.LottieAnimationView.LoopingModeType.html",
-          "hash": "2xfmOd2wyROdjyaiYmgzwj1SPAMH2IbILqxXCGSpvdY="
+          "hash": "ZhBwPjtcDLAq+jq4bdH0G258121uaU56xb3jCFPQFdM="
         }
       },
       "is_incremental": false,
@@ -85515,7 +85515,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseComponents.LottieAnimationView.PlayStateType.html",
-          "hash": "2EUxUcL1rRe8sZSTY/r/1+XcUNIZ45CIxNxhc/sp4co="
+          "hash": "jXrw85DkgTuFnMSm1LHFgmYgXWpulmQboXgSKsJd6Bc="
         }
       },
       "is_incremental": false,
@@ -85528,7 +85528,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseComponents.LottieAnimationView.StopBehaviorType.html",
-          "hash": "+x5A9wlrXhWbF55ZqQsRvjlzAFunt/eoql/qjjaZl0s="
+          "hash": "xvQfiGjVYivYRuBrwID1Ak6iaz1Q9ldS7gJdcpWZcRo="
         }
       },
       "is_incremental": false,
@@ -85541,7 +85541,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseComponents.LottieAnimationView.html",
-          "hash": "KYdivl7fDsytmcYspyKye2b0a4zY4iO5v7gnFdVwbg4="
+          "hash": "or+aon4KOKMpJ7OUKYqyVu6i7x7U4/FeP0xtcc/hpGA="
         }
       },
       "is_incremental": false,
@@ -86217,7 +86217,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseHandle.FocusRequestArgs.html",
-          "hash": "5q6KIpcsresmTFsDV410m522SnW4b9zM0/fSr8iBZNg="
+          "hash": "lqWHhTlVxx1fAhcGFl7MzlnttR+oUOHvcAmxLh29Sf0="
         }
       },
       "is_incremental": false,
@@ -86230,7 +86230,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.BaseHandle.html",
-          "hash": "g2pw6eDB3N0O3qlEsw2VZLR33VWoR7TRE1/5AdV9Zg0="
+          "hash": "KDXdtIA1pmCXUp3XKdeDzWd9bEAnXN5sg6EdGQlii9E="
         }
       },
       "is_incremental": false,
@@ -91066,7 +91066,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.FocusChangedEventArgs.html",
-          "hash": "IQHp+Tp/F5TnvpO3XV/UXdTlfs+FG3qQvgzpdnPnUEw="
+          "hash": "SxRwypUbCBTwk/EPkLml2iejB9YS6YNnie9ttyuK7hY="
         }
       },
       "is_incremental": false,
@@ -91079,7 +91079,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.KeyEventArgs.html",
-          "hash": "dKFqsgOsEsqvVR+qddIVzL3Y9GJXvmbChxfYaNR6BM4="
+          "hash": "WoWjWrXKjsa73HcO/6ePWxpdu4WoNBbJxOkofQu8N9U="
         }
       },
       "is_incremental": false,
@@ -91105,7 +91105,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.ResizedEventArgs.html",
-          "hash": "dO1wj1Rt7ApP0nhnOkpjAeXP3o0vExB2f5v8J+egk7o="
+          "hash": "yha/K7295H3R1GeI6HgKqylUgKx5p2HcDzrb9qdrop4="
         }
       },
       "is_incremental": false,
@@ -91118,7 +91118,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.SafeNativeWindowHandle.html",
-          "hash": "/cSTAgykWSL8ESheFlgp2gNRTNZwlmmZaranLbGBhIE="
+          "hash": "0wEi5HHH2t4h5g0A28hMpLH/ub53OZeEqPARTgUY4Ho="
         }
       },
       "is_incremental": false,
@@ -91131,7 +91131,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.TouchEventArgs.html",
-          "hash": "jCfgUemOk8f4ATuYaxrpH0v+BYTE8RZjdc0llwGEZMQ="
+          "hash": "ZDP56BHsGQob4iAvcRigX8+EwLHz4/AKVME6MYUJ+cA="
         }
       },
       "is_incremental": false,
@@ -91144,7 +91144,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.WheelEventArgs.html",
-          "hash": "IyIrremym0vRUml198h5uOsXKh0ZRBOYf50dqqYtPLo="
+          "hash": "/VEEmwrjjlgbnoaP1l3agk07LlCNtdCR2SzCGevDFrg="
         }
       },
       "is_incremental": false,
@@ -91170,7 +91170,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.Window.html",
-          "hash": "dT0TsV7fwzzq4iyXQRwHgBvh/OWhIa5kXhnfIfL2SxA="
+          "hash": "njyHIY9JaAOZTOAbfhJ5FqUpXwRVeMAi6vfrQ2V4fZI="
         }
       },
       "is_incremental": false,
@@ -119952,7 +119952,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.LoopingModeType.html",
-          "hash": "eueTUh+cevqFZWc1h89MXnbmEWgdXmAiZT7wPNdg02U="
+          "hash": "xVY1hOT0iwragy8D3q2Y12HZyI/4wZMZuXy7JQM5nEk="
         }
       },
       "is_incremental": false,
@@ -119965,7 +119965,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.PlayStateType.html",
-          "hash": "SIXSw/Ly42/pGYuu0ZKkoHxbnG1VvbQktKnll4n2dxY="
+          "hash": "elBJTf20H6GlyzATvDBCKphImGAGBjtFYjGi/wXAgwA="
         }
       },
       "is_incremental": false,
@@ -119978,7 +119978,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.StopBehaviorType.html",
-          "hash": "U196EXhWtmB4Rw1N+HEt81XImEuiD3t3Q7G+Jbjlt1M="
+          "hash": "4Hun3c0INEdGvr0MjfqQddL2kbId/dikqvrWusKCuDg="
         }
       },
       "is_incremental": false,
@@ -119991,7 +119991,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.html",
-          "hash": "67hbmBH02KePBgp4wKGLYMfq0v1dSE+etZV5+8WGKKM="
+          "hash": "i6L9fpv1tjPeAWRoLVSJhEDRKA6Dc7LHLpiwMnVHkZg="
         }
       },
       "is_incremental": false,
@@ -120589,7 +120589,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.html",
-          "hash": "Cds5i6mJYYDVNRMe0gg/E/EoJpiLJ7jHYBp5CUFNUNg="
+          "hash": "5WLddlR5/0waqpPtRJQL0aIUzUOlQPSyJsF+Jq28pkg="
         }
       },
       "is_incremental": false,
@@ -120667,7 +120667,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseHandle.FocusRequestArgs.html",
-          "hash": "hMW5rMObJaxBu6/5sXizhq+uIm/Kk1HHczq2BHYA3fI="
+          "hash": "xQooteOhk5XuaV1oIU22RRBRUCveBmBzlAoPbV6yMx0="
         }
       },
       "is_incremental": false,
@@ -120680,7 +120680,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseHandle.html",
-          "hash": "TVUqe5TKm4+JD2qZowsnFTzeZQgS0FywG+BXKw1WDwQ="
+          "hash": "CoxyjKI9NoGXSpve5tL2DLKMRPTs2t5x5TyfbbdoUqY="
         }
       },
       "is_incremental": false,
@@ -125516,7 +125516,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.FocusChangedEventArgs.html",
-          "hash": "kC0yAszdb28tAJXWiiPLOmaTR3K4GA0wraRBinzS2K0="
+          "hash": "bQHwNV1KV4Aj9c2zgzPzU77E8RU0SRc1Tu8IvC/rMZE="
         }
       },
       "is_incremental": false,
@@ -125529,7 +125529,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.KeyEventArgs.html",
-          "hash": "/AGC8TdDCWw7HZTI1xQr6Spq0Zluj9/CeNDqG5+oeZw="
+          "hash": "GZJf+DYY3ht3oLnGT7OP+oEk/7xP3XlBex92hmYUwxw="
         }
       },
       "is_incremental": false,
@@ -125555,7 +125555,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.ResizedEventArgs.html",
-          "hash": "V34V+U6KM0mwDYgn6Y3Z8RzUetFTVs73zf26+3y+UgI="
+          "hash": "+6gVtTTFXJPOGQ1JzcuWnpIH/nX0fYqEk8IYb0T0tUU="
         }
       },
       "is_incremental": false,
@@ -125568,7 +125568,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.SafeNativeWindowHandle.html",
-          "hash": "t6vExeNP6Z3DoNaeBdUFHW8sO8hwhvbhIfwG0WTcxMo="
+          "hash": "k1K8JgxLpOlJXLD/05AYs/g02nFRO9mfmgrxF6ghY4A="
         }
       },
       "is_incremental": false,
@@ -125581,7 +125581,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.TouchEventArgs.html",
-          "hash": "N08mPe9gOxZOOYA8QJmyB5A8x6UwqntbVG0KyuQu5sI="
+          "hash": "uadovSv6AJ3ie9uRGwYs8H7sLMHa7Le6MblfloI3Ijc="
         }
       },
       "is_incremental": false,
@@ -125594,7 +125594,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.WheelEventArgs.html",
-          "hash": "J0eIYspbIPIS2y1hIWrMuspbZpqWohb41LtJLSfwvhs="
+          "hash": "1Lm8EAIwTZfhp+HF9PEYgnPXhBMag+Mnib7p2QQ6ym8="
         }
       },
       "is_incremental": false,
@@ -125620,7 +125620,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.Window.html",
-          "hash": "AjppODKYj6tbgJYFH9slQrAdaZ22qRItp4/v4wsGeNM="
+          "hash": "K2EfHu2bdBKWAeUUVAprkhqH/d0hnZkEiZNzNpeBsYI="
         }
       },
       "is_incremental": false,
@@ -315428,7 +315428,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/index.html",
-          "hash": "mcDO48TfN1on9e7hASQJn7f8rziyUgtMp63UaitH5nY="
+          "hash": "rl19Nj6vSHK7kaNgXXA9zq/i2Z6P0HkIBkKeJvNkjRE="
         }
       },
       "is_incremental": false,
@@ -315441,7 +315441,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/index.html",
-          "hash": "wJfDhr39pGsO11NwuEhI81m0PA2nsTnkw7a0x3OsKJo="
+          "hash": "Po3GGI+EnCNcgl87fLEc7cgkl13nTbpM9JcODQ79cfg="
         }
       },
       "is_incremental": false,
@@ -315449,15 +315449,12 @@
       "group": "API12"
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "specs/API13/api/index.md",
       "output": {
         ".html": {
           "relative_path": "API13/api/index.html",
-          "hash": "ZwW5FDI+LVz61wH9WKdplovHdR/P2e3E2MluClNOwl4="
+          "hash": "lE0sT2Fl0yd4K/CtW40X88E85YDtUPsY3QzrOYLqVZs="
         }
       },
       "is_incremental": false,
@@ -315465,15 +315462,12 @@
       "group": "API13"
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "specs/API13/index.md",
       "output": {
         ".html": {
           "relative_path": "API13/index.html",
-          "hash": "HO8hxBnD93qTpEJm6V6Jw/QMx+znvYItjkKeNb/xpVc="
+          "hash": "KXRQ8+8ZN54Ej72Uq74sCe83lWIFbcpwHeE7nvJ9jWY="
         }
       },
       "is_incremental": false,
